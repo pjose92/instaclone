@@ -4,14 +4,14 @@
 
 ### there will be auth and will be responsive 
 
-##### // client side rendered app: react
- ##### // -> database which is Firebase
- ##### // -> react-loading-skeleton 
- ##### // tailwind 
+##### client side rendered app: react
+ ##### -> database which is Firebase
+ ##### -> react-loading-skeleton 
+ ##### tailwind 
 
 
-##### //folder structure
-  ##### // src
+##### folder structure
+  ##### src
     #####  -> components, 
     #####  -> constants,
     #####  -> context, 
